@@ -3,7 +3,7 @@
 </h1>
 
 <h1>
-    <img src="public/fullpg.png">
+    <img src="public/fullpg.PNG">
 </h1>
 
 <h3 align="center">
