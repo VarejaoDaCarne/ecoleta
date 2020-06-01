@@ -18,7 +18,7 @@
 
 ## 🔖 Sobre
 
-O projeto **Ecoleta** é um site que foi criado na semana **Next Week Level** com o intuito de introdução ao mundo da programação.
+O projeto **Ecoleta** é um site que ajuda pessoas a encontrarem pontos de coleta de lixo. Site que foi criado na semana **Next Week Level** com o intuito de introdução ao desenvolvimento web.
 
 ---
 
