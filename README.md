@@ -4,6 +4,7 @@
 
 <h1>
     <img src="public/fullpg.png">
+    <img src="public/create-pointpg.png">
 </h1>
 
 <h3 align="center">
@@ -18,7 +19,7 @@
 
 ## 🔖 Sobre
 
-O projeto **Ecoleta** é um site que foi criado na semana **Next Week Level** com o intuito de introdução ao mundo da programação.
+O projeto **Ecoleta** é um site que foi criado na semana **Next Week Level** com o intuito de introdução ao desenvolvimento web.
 
 ---
 
@@ -28,6 +29,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 
 ---
 
