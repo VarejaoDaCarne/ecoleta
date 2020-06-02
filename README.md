@@ -3,8 +3,12 @@
 </h1>
 
 <h1>
+<<<<<<< HEAD
     <img src="public/fullpg.png">
     <img src="public/create-pointpg.png">
+=======
+    <img src="public/fullpg.PNG">
+>>>>>>> 6f96fa0c9cdd7f1b63b189c2de5082c362e2bfb1
 </h1>
 
 <h3 align="center">
@@ -19,7 +23,11 @@
 
 ## 🔖 Sobre
 
+<<<<<<< HEAD
 O projeto **Ecoleta** é um site que foi criado na semana **Next Week Level** com o intuito de introdução ao desenvolvimento web.
+=======
+O projeto **Ecoleta** é um site que ajuda pessoas a encontrarem pontos de coleta de lixo. Site que foi criado na semana **Next Week Level** com o intuito de introdução ao desenvolvimento web.
+>>>>>>> 6f96fa0c9cdd7f1b63b189c2de5082c362e2bfb1
 
 ---
 
