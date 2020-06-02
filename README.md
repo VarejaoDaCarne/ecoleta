@@ -4,6 +4,10 @@
 
 <h1>
     <img src="public/fullpg.png">
+
+</h1>
+
+<h1>
     <img src="public/create-pointpg.png">
 </h1>
 
