@@ -16,15 +16,9 @@
     <a href="https://nextlevelweek.com/inscricao/1?gclid=EAIaIQobChMIotuFiO_g6QIVBwiRCh0kcAbAEAAYASAAEgLgWPD_BwE">Next Week Level</a>
 <h3 >
 
-# Indice
-
-- [Sobre](#-sobre)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como baixar e iniciar o projeto](#-como-baixar-o-projeto)
-
 ## 🔖 Sobre
 
-O projeto **Ecoleta** é um site que foi criado na semana **Next Week Level** com o intuito de introdução ao desenvolvimento web.
+O projeto **Ecoleta** foi criado na semana **Next Week Level** com o intuito de introdução ao desenvolvimento web.
 
 ---
 
@@ -52,7 +46,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ Instalar o live server no vscode
     
     # Iniciar o projeto
-    $ Abrir o arquivo index.html com o live server
+    $ Abrir o index.html com o live server
 ```
 
 ---
