@@ -2,6 +2,12 @@
     <img src="/assets/logo.svg">
 </h1>
 
+## 🔖 Sobre
+
+O projeto **Ecoleta** foi criado na semana **Next Week Level** com o intuito de introdução ao desenvolvimento web.
+
+---
+
 <h1 width="100%">
     <img src="public/fullpg.PNG"  width="49%" height"100%">
     <img src="public/create-pointpg.PNG"  width="49%" height"100%">
@@ -16,11 +22,7 @@
     <a href="https://nextlevelweek.com/inscricao/1?gclid=EAIaIQobChMIotuFiO_g6QIVBwiRCh0kcAbAEAAYASAAEgLgWPD_BwE">Next Week Level</a>
 <h3 >
 
-## 🔖 Sobre
 
-O projeto **Ecoleta** foi criado na semana **Next Week Level** com o intuito de introdução ao desenvolvimento web.
-
----
 
 ## 🚀 Tecnologias utilizadas
 
