@@ -3,8 +3,8 @@
 </h1>
 
 <h1>
-    <img src="public/fullpg.PNG">
-    <img src="public/create-pointpg.PNG">
+    <img src="public/fullpg.PNG" align="left>
+    <img src="public/create-pointpg.PNG" align="right>
 </h1>
 
 <h1>
