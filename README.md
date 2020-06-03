@@ -4,11 +4,12 @@
 
 <h1>
     <img src="public/fullpg.PNG">
-
+    <img src="public/create-pointpg.PNG">
 </h1>
 
 <h1>
-    <img src="public/create-pointpg.PNG">
+    <img src="public/modalpg.PNG">
+    <img src="public/pontospg.PNG">
 </h1>
 
 <h3 align="center">
@@ -37,7 +38,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ---
 
-## 🗂 Como baixar o projeto
+## 🗂 Como baixar e iniciar o projeto
 
 ```bash
 
@@ -51,7 +52,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ Instalar o live server no vscode
     
     # Iniciar o projeto
-    $ Abrir qualquer arquivo html com o live server
+    $ Abrir o arquivo index.html com o live server
 ```
 
 ---
