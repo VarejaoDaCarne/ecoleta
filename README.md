@@ -7,9 +7,9 @@
     <img src="public/create-pointpg.PNG"  width="49%" height"100%">
 </h1>
 
-<h1>
-    <img src="public/modalpg.PNG">
-    <img src="public/pontospg.PNG">
+<h1 margin="0" width="100%">
+    <img src="public/modalpg.PNG" width="49%" height"100%">
+    <img src="public/pontospg.PNG" width="49%" height"100%">
 </h1>
 
 <h3 align="center">
