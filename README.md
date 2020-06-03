@@ -2,12 +2,12 @@
     <img src="/assets/logo.svg">
 </h1>
 
-<h1 align="center" margin="0" width="100%">
+<h1 width="100%">
     <img src="public/fullpg.PNG"  width="49%" height"100%">
     <img src="public/create-pointpg.PNG"  width="49%" height"100%">
 </h1>
 
-<h1 margin="0" width="100%">
+<h1 width="100%">
     <img src="public/modalpg.PNG" width="49%" height"100%">
     <img src="public/pontospg.PNG" width="49%" height"100%">
 </h1>
