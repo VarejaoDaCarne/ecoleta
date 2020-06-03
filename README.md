@@ -47,8 +47,11 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     # Entrar no diretório
     $ cd ecoleta
 
+    # Instale as extensões
+    $ Instalar o live server no vscode
+    
     # Iniciar o projeto
-    $ abrir no navegador o arquivo index.html
+    $ Abrir qualquer arquivo html com o live server
 ```
 
 ---
