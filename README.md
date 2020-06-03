@@ -18,7 +18,7 @@
 
 ## 🔖 Sobre
 
-O projeto **Ecoleta** foi criado na semana **Next Week Level** com o intuito de introdução ao desenvolvimento web.
+O projeto **Ecoleta** é um marketplace de coleta de resíduos. Projeto criado na semana **Next Week Level** com o intuito de introdução ao desenvolvimento web.
 
 
 ## 🚀 Tecnologias utilizadas
