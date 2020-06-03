@@ -16,13 +16,13 @@
     <a href="https://nextlevelweek.com/inscricao/1?gclid=EAIaIQobChMIotuFiO_g6QIVBwiRCh0kcAbAEAAYASAAEgLgWPD_BwE">Next Week Level</a>
 <h3 >
 
-🔖 Sobre
+## 🔖 Sobre
 
 O projeto **Ecoleta** foi criado na semana **Next Week Level** com o intuito de introdução ao desenvolvimento web.
 
 ---
 
-🚀 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
@@ -32,7 +32,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ---
 
-🗂 Como baixar e iniciar o projeto
+## 🗂 Como baixar e iniciar o projeto
 
 ```bash
 
