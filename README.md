@@ -2,7 +2,7 @@
     <img src="/assets/logo.svg">
 </h1>
 
-<h1>
+<h1 align="center">
     <img src="public/fullpg.PNG" align="left" width="48%" height"100%">
     <img src="public/create-pointpg.PNG" align="right" width="48%" height"100%">
 </h1>
