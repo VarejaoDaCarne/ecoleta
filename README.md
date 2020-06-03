@@ -2,12 +2,6 @@
     <img src="/assets/logo.svg">
 </h1>
 
-## 🔖 Sobre
-
-O projeto **Ecoleta** foi criado na semana **Next Week Level** com o intuito de introdução ao desenvolvimento web.
-
----
-
 <h1 width="100%">
     <img src="public/fullpg.PNG"  width="49%" height"100%">
     <img src="public/create-pointpg.PNG"  width="49%" height"100%">
@@ -22,6 +16,9 @@ O projeto **Ecoleta** foi criado na semana **Next Week Level** com o intuito de 
     <a href="https://nextlevelweek.com/inscricao/1?gclid=EAIaIQobChMIotuFiO_g6QIVBwiRCh0kcAbAEAAYASAAEgLgWPD_BwE">Next Week Level</a>
 <h3 >
 
+## 🔖 Sobre
+
+O projeto **Ecoleta** foi criado na semana **Next Week Level** com o intuito de introdução ao desenvolvimento web.
 
 
 ## 🚀 Tecnologias utilizadas
@@ -32,7 +29,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 
----
 
 ## 🗂 Como baixar e iniciar o projeto
 
@@ -50,7 +46,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     # Iniciar o projeto
     $ Abrir o index.html com o live server
 ```
-
----
 
 Desenvolvido por [Gabriel Rios](https://www.linkedin.com/in/grioos/)
