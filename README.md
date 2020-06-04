@@ -50,6 +50,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ npm start
 ```
 
----
-
 Desenvolvido por [Gabriel Rios](https://www.linkedin.com/in/grioos/)
