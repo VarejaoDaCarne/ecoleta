@@ -2,8 +2,6 @@
     <img src="public/assets/logo.svg">
 </h1>
 
-</h1>
-=======
 <h1>
     <img src="public/images/indexpg.PNG"  width="49%" height"100%">
     <img src="public/images/create-pointpg.PNG"  width="49%" height"100%">
