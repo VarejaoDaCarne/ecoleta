@@ -2,14 +2,14 @@
     <img src="/assets/logo.svg">
 </h1>
 
-<h1>
-    <img src="public/fullpg.PNG">
-    <img src="public/create-pointpg.PNG">
+<h1 >
+    <img src="public/images/indexpg.PNG">
+    <img src="public/images/create-pointpg.PNG">
 </h1>
 
 <h1>
-    <img src="public/modalpg.PNG">
-    <img src="public/pontospg.PNG">
+    <img src="public/images/modalpg.PNG">
+    <img src="public/images/pontospg.PNG">
 </h1>
 
 <h3 align="center">
@@ -33,8 +33,11 @@ O projeto **Ecoleta** é um site que foi criado na semana **Next Week Level** co
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Express](https://expressjs.com/pt-br/)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
+- [JavaScript](https://www.javascript.com/)
+- [Nodejs](https://nodejs.org/en/)
+- [NPM](https://www.npmjs.com/)
 
 ---
 

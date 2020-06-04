@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="widht=device-width, initial-scale=1.0">
+    
+    {% block title %}
+        <title>Ecoleta</title>  
+    {% endblock %}
+
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&amily=Ubuntu:wght@300;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/styles/main.css">
+
+    {% block styles %}
+    {% endblock %}
+
+    <link rel="stylesheet" href="/styles/responsive.css">
+</head>       
+<body>
+
+    <div id="{{pageId}}">
+        {% block content %}
+        {% endblock %}
+    </div>
+
+    {% block modal %}
+    {% endblock %}
+
+    {% block scripts %}
+    {% endblock %}
+</body>
+</html>
