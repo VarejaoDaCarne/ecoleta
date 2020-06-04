@@ -4,14 +4,14 @@
 
 </h1>
 =======
-<h1 width="100%">
-    <img src="public/fullpg.PNG"  width="49%" height"100%">
-    <img src="public/create-pointpg.PNG"  width="49%" height"100%">
+<h1>
+    <img src="public/images/indexpg.PNG"  width="49%" height"100%">
+    <img src="public/images/create-pointpg.PNG"  width="49%" height"100%">
 </h1>
 
-<h1 width="100%">
-    <img src="public/modalpg.PNG" width="49%" height"100%">
-    <img src="public/pontospg.PNG" width="49%" height"100%">
+<h1>
+    <img src="public/images/modalpg.PNG" width="49%" height"100%">
+    <img src="public/images/pontospg.PNG" width="49%" height"100%">
 </h1>
 
 <h3 align="center">
