@@ -35,7 +35,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [JavaScript](https://www.javascript.com/)
 - [Nodejs](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/)
-- [Sqlite](https://www.sqlite.org/index.html/)
+- [Sqlite](https://www.sqlite.org/index.html)
 
 ## 🗂 Como baixar e iniciar o projeto
 
