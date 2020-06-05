@@ -2,14 +2,18 @@
     <img src="public/assets/logo.svg">
 </h1>
 
-<h1>
-    <img src="public/images/indexpg.PNG"  width="49%" height"100%">
-    <img src="public/images/create-pointpg.PNG"  width="49%" height"100%">
+<h1 align="center">
+    <img src="public/github/ecoleta.gif" height="50%">
 </h1>
 
 <h1>
-    <img src="public/images/modalpg.PNG" width="49%" height"100%">
-    <img src="public/images/pontospg.PNG" width="49%" height"100%">
+    <img src="public/github/indexpg.PNG"  width="49%" height"100%">
+    <img src="public/github/create-pointpg.PNG"  width="49%" height"100%">
+</h1>
+
+<h1>
+    <img src="public/github/modalpg.PNG" width="49%" height"100%">
+    <img src="public/github/pontospg.PNG" width="49%" height"100%">
 </h1>
 
 <h3 align="center">
@@ -31,7 +35,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [JavaScript](https://www.javascript.com/)
 - [Nodejs](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/)
-
+- [Sqlite](https://www.sqlite.org/index.html/)
 
 ## 🗂 Como baixar e iniciar o projeto
 
