@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="public/github/ecoleta.gif" height="50%">
+    <img src="public/github/ecoleta.gif">
 </h1>
 
 <h1>
